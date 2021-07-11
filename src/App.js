@@ -1,7 +1,7 @@
 import "./App.css";
 import MoviesList from "./MoviesContextExample/MoviesList";
 import Nav from "./MoviesContextExample/Nav";
-import { MovieProvider } from "./MoviesContextExample/MovieContext";
+import { MovieProvider } from "./Contexts/MovieContext";
 import AddMovie from "./MoviesContextExample/AddMovie";
 
 function App() {
